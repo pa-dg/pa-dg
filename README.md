@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/pa-dg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Web%20Developer&font=Roboto%20Code&center=true&width=440&height=50&color=33ffb6&vCenter=true&size=25&pause=500"></a><img src="https://c.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif" width="50" vertical-align="baseline">
+  <a href="https://github.com/pa-dg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Web%20Developer&font=Roboto%20Code&center=true&width=440&height=50&color=21D900&vCenter=true&size=25&pause=500"></a>
+  <img src="https://media1.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif?cid=790b7611aa6682f0157f2de4f44ab1d2b236543d37483212&rid=giphy.gif&ct=s" width="100">
 </p>
 
 - 🔭 I’m currently working on ...
@@ -22,7 +23,8 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="30">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white" height="30">
   <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white" height="30">
-  <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="30">
+  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="30">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="30">
 </p>
 
 ## Frameworks & Libraries:
@@ -42,7 +44,7 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="30">
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="30">
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white" height="30">
-  <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" height=30">
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" height=30">
 </p>
 
 <br>
