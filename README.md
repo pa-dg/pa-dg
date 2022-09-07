@@ -3,14 +3,10 @@
   <img src="https://media1.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif?cid=790b7611aa6682f0157f2de4f44ab1d2b236543d37483212&rid=giphy.gif&ct=s" width="100">
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [padgzmn@gmail.com :envelope_with_arrow:](padgzmn@gmail.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak English & Tagalog
+- 🌱 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews
+- 📚 I’m looking for help with diving deeper into React Hooks
+- 📩 How to reach me: [padgzmn@gmail.com](padgzmn@gmail.com)
+- ⚡ Fun fact: Despite my small stature, I enjoy weightlifting when I'm not coding 😬
 
 <br>
 
