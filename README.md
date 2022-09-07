@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/pa-dg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Web%20Developer&font=Roboto%20Code&center=true&width=440&height=50&color=21D900&vCenter=true&size=25&pause=500"></a>
+  <a href="https://github.com/pa-dg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Software%20Engineer&font=Roboto%20Code&center=true&width=440&height=50&color=21D900&vCenter=true&size=25&pause=500"></a>
   <img src="https://media1.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif?cid=790b7611aa6682f0157f2de4f44ab1d2b236543d37483212&rid=giphy.gif&ct=s" width="100">
 </p>
 
