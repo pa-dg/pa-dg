@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif?cid=790b7611aa6682f0157f2de4f44ab1d2b236543d37483212&rid=giphy.gif&ct=s" width="100">
 </p>
 
-- 🌱 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews
+- 🌱 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews & at the same time working on completing my projects
 - 📚 I’m looking for help with diving deeper into React Hooks
 - 📩 How to reach me: [padgzmn@gmail.com](padgzmn@gmail.com)
 - ⚡ Fun fact: Despite my small stature, I enjoy weightlifting when I'm not coding 😬
