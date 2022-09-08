@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="https://github.com/pa-dg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Software%20Engineer&font=Roboto%20Code&center=true&width=440&height=50&color=21D900&vCenter=true&size=25&pause=500"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Andrea%20de%20Guzman!;Full-Stack%20Software%20Engineer&font=Roboto%20Code&center=true&width=440&height=50&color=21D900&vCenter=true&size=25&pause=500">
   <img src="https://media1.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif?cid=790b7611aa6682f0157f2de4f44ab1d2b236543d37483212&rid=giphy.gif&ct=s" width="100">
 </p>
 
+
 - 🚀 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews & at the same time working on completing my projects
-- 📚 I’m looking for help with diving deeper into React Hooks
-- 📩 How to reach me: 
-      <a href="mailto:padgzmn@gmail.com" target="_blank" title="gmail">Gmail</a>
-      <a href="https://www.linkedin.com/in/patricia-deguzman/" target="_blank" title="linkedin">LinkedIn</a>
+- 📚 I’m looking into diving deeper into React Hooks
 - 💡 Fun fact: Despite my small stature, I enjoy weightlifting when I'm not coding 🔋
 
 <br>
@@ -44,21 +42,22 @@
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white" height="30">
   <img alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" height=30">
 </p>
-
+                                                                                                                                       
 <br>
 
-<details>
-  <summary>:zap: Github Stats </summary>
-     <img align="left" alt="Andrea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pa-dg&show_icons=true&hide_border=true" />
-</details>
+<span>                                                                                                                                       
+  <details>
+    <summary>:zap: Github Stats </summary>
+       <img align="left" alt="Andrea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pa-dg&show_icons=true&hide_border=true" />
+  </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-    <img align="left" alt="Andrea's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa-dg" />
-</details>
-
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+  <details>
+    <summary>:zap: Most Used Languages</summary>
+      <img align="left" alt="Andrea's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa-dg" />
+  </details>
+</span>                                                                                                                                     
+                                                                                                                                    
+### :e-mail: Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padgzmn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-deguzman/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/patricia-andrea-de-guzman)                                                                                                                                    
