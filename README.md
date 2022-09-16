@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews & at the same time working on completing my projects
 - 📚 I’m looking into diving deeper into React Hooks
-- 💡 Fun fact: Despite my small stature, I enjoy weightlifting when I'm not coding 🔋
+- 💡 Fun fact: When I'm not coding, I enjoy weightlifitng 🏋🏻‍♀️ and cooking 🍜
 
 <br>
 
