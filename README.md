@@ -4,7 +4,7 @@
 </p>
 
 
-- 🚀 I’m currently reviewing what I have learned over the past four months at App Academy to be prepared for Technical Interviews & at the same time working on completing my projects
+- 🚀 I’m currently reviewing DS&A to be prepared for Technical Interviews
 - 📚 I’m looking into diving deeper into React Hooks
 - 💡 Fun fact: When I'm not coding, I enjoy weightlifitng 🏋🏻‍♀️ and cooking 🍜
 
