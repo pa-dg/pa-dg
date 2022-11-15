@@ -5,7 +5,7 @@
 
 💡 Fun fact: When I'm not coding, I enjoy weightlifitng 🏋🏻‍♀️ and cooking 🍜
 
-🗂 Portfolio Site: https://www.padg.dev/
+🗂 Checkout my portfolio site ➡ <a href="https://www.padg.dev/" target="-blank">Portfolio Site</a> 
 <br>
 
 ## Programming Tools:
