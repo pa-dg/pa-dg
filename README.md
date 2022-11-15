@@ -5,6 +5,7 @@
 
 💡 Fun fact: When I'm not coding, I enjoy weightlifitng 🏋🏻‍♀️ and cooking 🍜
 
+🗂 Portfolio Site: https://www.padg.dev/
 <br>
 
 ## Programming Tools:
@@ -40,10 +41,10 @@
   <img alt="AWS S3" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=black" height=30">
 </p>                                                                                                            
                                                                                                                                     
-<!--   <details>
+<!-- <details>
     <summary>:zap: Github Stats </summary>
        <img align="left" alt="Andrea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pa-dg&show_icons=true&hide_border=true" />
-  </details> -->
+</details> -->  
 
 <!--   <details>
     <summary>:zap: Most Used Languages</summary>
@@ -53,4 +54,6 @@
 ## Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padgzmn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-deguzman/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/patricia-andrea-de-guzman)                                                                                                                                    
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/patricia-andrea-de-guzman)
+                                                                                                                                      
+### <a href="https://www.padg.dev/" target="-blank">Portfolio Site</a>                                                                                                                           
